@@ -1,0 +1,14 @@
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\bin\Debug\net7.0\Ejercicio Grupal.exe
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\bin\Debug\net7.0\Ejercicio Grupal.deps.json
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\bin\Debug\net7.0\Ejercicio Grupal.runtimeconfig.json
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\bin\Debug\net7.0\Ejercicio Grupal.dll
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\bin\Debug\net7.0\Ejercicio Grupal.pdb
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\obj\Debug\net7.0\Ejercicio Grupal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\obj\Debug\net7.0\Ejercicio Grupal.AssemblyInfoInputs.cache
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\obj\Debug\net7.0\Ejercicio Grupal.AssemblyInfo.cs
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\obj\Debug\net7.0\Ejercicio Grupal.csproj.CoreCompileInputs.cache
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\obj\Debug\net7.0\Ejercicio Grupal.dll
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\obj\Debug\net7.0\refint\Ejercicio Grupal.dll
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\obj\Debug\net7.0\Ejercicio Grupal.pdb
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\obj\Debug\net7.0\Ejercicio Grupal.genruntimeconfig.cache
+C:\Users\jnvg9\OneDrive\Escritorio\Ejercicio Grupal\obj\Debug\net7.0\ref\Ejercicio Grupal.dll
